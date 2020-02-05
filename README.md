@@ -9,7 +9,8 @@ My references for this code are the following:
   - I used this site to test out my Github org API before pointing it at this listener.
 - https://github.com/KnpLabs/php-github-api
   - I used this PHP Github API client to send my API calls.
-
+- https://gist.github.com/milo/daed6e958ea534e4eba3
+  - I used parts of this to add in Webhook security to my code.
 
 ### Infrastructure Requirements
 - Ubuntu VM with 1 cpu, 1gb ram and 16gb disk
